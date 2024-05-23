@@ -1,3 +1,3 @@
 # Guess-Game
-Demostrating binary search
+Demonstrating binary search
 TUTORİAL:
